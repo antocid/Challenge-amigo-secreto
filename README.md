@@ -2,4 +2,6 @@
 
 - Estado del proyecto: Finalizado.
 
+- Para ejecutar el sistema debe ingresar desde el archivo html.
+
   
